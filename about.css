@@ -6,7 +6,7 @@
 }
 
 .about-us-image img {
-    width: 60%;
+    width: 50%;
 }
 
 .about-us-text {
@@ -132,6 +132,31 @@
 }
 
 .team-card p {
+    font-weight: 400;
+    text-align: center;
+    margin-top: 1vh;
+}
+
+.faculty-card {
+    width: 300px;
+    border-radius: 50px;
+    margin: auto;
+    margin-bottom: 5vh;
+}
+
+.faculty-card img {
+    width: 100%;
+    border-radius: 50px;
+}
+
+.faculty-card h3 {
+    font-weight: 700;
+    font-size: 1.2rem;
+    text-align: center;
+    margin-top: 1vh;
+}
+
+.faculty-card p {
     font-weight: 400;
     text-align: center;
     margin-top: 1vh;
